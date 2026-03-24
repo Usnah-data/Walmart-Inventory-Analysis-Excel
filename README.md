@@ -42,15 +42,21 @@ This project answers:
 * Profit analysis by state
 * Yearly sales trend visualization
 * Interactive filters (Category, Product Name)
-* 
+
+## Data Cleaning & Preparation
+Removed inconsistencies and duplicates
+Structured raw data for analysis
+Created calculated fields for:
+Profit
+Total sales
+Aggregated metrics using Pivot Tables
+
 
 ##  Tools & Techniques Used
-
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Data Cleaning
-* Dashboard Design & Formatting
+Microsoft Excel
+Pivot Tables & Pivot Charts
+Data Cleaning
+Dashboard Design
 
 
 ##  Dashboard Preview
@@ -61,11 +67,10 @@ This project answers:
 
 
 ##  Business Recommendations
-
-* Increase inventory for **high-performing categories like Phones**
-* Investigate **low-profit, high-sales categories** to improve margins
-* Focus marketing efforts on **top-performing states**
-* Optimize stock levels to prevent overstocking in low-demand categories
+Increase stock for high-demand categories like Phones
+Review pricing for low-margin products
+Expand focus on high-performing regions like California
+Improve inventory planning based on sales trends
 
 
 ## Author
