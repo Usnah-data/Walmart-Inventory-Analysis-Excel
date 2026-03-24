@@ -55,7 +55,8 @@ This project answers:
 
 ##  Dashboard Preview
 
-![Dashboard](<img width="1920" height="1008" alt="Screenshot 2026-01-20 151727" src="https://github.com/user-attachments/assets/d60afdf0-c95a-47af-aeff-643b589e64a1" />
+![Dashboard](<img width="1432" height="680" alt="Screenshot 2026-01-20 151727" src="https://github.com/user-attachments/assets/b430fe7a-9f55-439c-9944-1cf55f2f4ff1" />
+
 
 
 
