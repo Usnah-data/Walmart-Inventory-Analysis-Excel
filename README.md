@@ -44,19 +44,19 @@ This project answers:
 * Interactive filters (Category, Product Name)
 
 ## Data Cleaning & Preparation
-Removed inconsistencies and duplicates
-Structured raw data for analysis
-Created calculated fields for:
-Profit
-Total sales
-Aggregated metrics using Pivot Tables
+* Removed inconsistencies and duplicates
+* Structured raw data for analysis
+* Created calculated fields for:
+* Profit
+* Total sales
+* Aggregated metrics using Pivot Tables
 
 
 ##  Tools & Techniques Used
-Microsoft Excel
-Pivot Tables & Pivot Charts
-Data Cleaning
-Dashboard Design
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Data Cleaning
+* Dashboard Design
 
 
 ##  Dashboard Preview
@@ -67,10 +67,10 @@ Dashboard Design
 
 
 ##  Business Recommendations
-Increase stock for high-demand categories like Phones
-Review pricing for low-margin products
-Expand focus on high-performing regions like California
-Improve inventory planning based on sales trends
+* Increase stock for high-demand categories like Phones
+* Review pricing for low-margin products
+* Expand focus on high-performing regions like California
+* Improve inventory planning based on sales trends
 
 
 ## Author
